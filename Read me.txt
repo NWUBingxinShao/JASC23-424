@@ -1,0 +1,17 @@
+#########
+
+Read this txt file before using the code and data in the Github folder.
+
+Prepared by Bingxin Shao (2021119053@stumail.nwu.edu.cn)
+
+#########
+This Github folder contains the data and code for the paper
+"The role of environmental factors in the spatiotemporal distribution of millet in Late Neolithic to Bronze Ages sites in the Tibetan Plateau and surrounding regions"
+
+#File description
+
+The "all-auc" folder contains all the data results from MaxENT modeling, where "M" represents millet crops, "FM" represents foxtail millet, and "BM" represents broomcorn millet. "CV" stands for cross-validation, "BS" represents bootstrap sampling method, and "SS" represents subsampling method. The remaining codes correspond to environmental layers, with specific descriptions provided in the methodology section of the supplementary materials.
+
+The "all-csv" folder contains data results extracted through ArcGIS, including environmental data and suitability indices of archaeological sites.
+
+ 
